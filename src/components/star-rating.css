@@ -1,0 +1,15 @@
+.rating-container {
+	display: flex;
+	align-items: center;
+}
+
+.star-rating {
+	display: flex;
+	align-items: center;
+	margin-left: 4px;
+}
+
+.star-rating .star {
+	color: #fdce03;
+	font-size: 1.5em;
+}
